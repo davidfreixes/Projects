@@ -1,4 +1,4 @@
-# Bootcamp-Proyecto1
+# Proyecto1 - Store
 GRUPO 4: David Freixes, Daniela R, Alfredo, Alex F.
 
 Descripción del proyecto: 
@@ -17,4 +17,3 @@ GitHub: Útil para poder trabajar de manera paralela sobre el mismo repositorio 
 Además, hemos hecho numerosos comentarios en el código para que todo el mundo pueda entender lo que se hace dentro del programa, además de hacer diversas reuniones para estar todos en la misma página o solucionar dudas. 
 
 Versión Java: jdk 21.0.3.
-Instrucciones para los usuarios: //TODO
